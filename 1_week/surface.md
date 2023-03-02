@@ -42,3 +42,4 @@ Runge-Kutta methods….
 • 상미분방정식: 오일러법, 고차 테일러법,
 Runge-Kutta 방법…
 
+나머지 학습내용은 이슈에 기재
