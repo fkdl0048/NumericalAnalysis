@@ -148,4 +148,4 @@ Hence the root is 2.7065 and correct upto four decimal place
 #### Closed Loop
 
 #### Open Loop
-ㅉ
+
