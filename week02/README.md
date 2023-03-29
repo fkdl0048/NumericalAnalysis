@@ -25,7 +25,6 @@ number by the conventional method.
 Single Precision
 단일 정밀도
 
-
 부동 소수점을 표현 하는 방법
 
 Floating point representation 
