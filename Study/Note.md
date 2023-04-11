@@ -508,4 +508,7 @@ using fixed point iteration method, correct upto 3-decimal places.
 
 $$ 𝑥^3 − 48 $$
 
+2
+
+
 using newton-Raphson method, correct upto 4-decimal places. 
