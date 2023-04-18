@@ -10,7 +10,10 @@ representation of numbers in different bases
 
 round-off errors.
 
+
 ### 십진수를 IEEE-754 부동소수점 표현
+
+> Floating Point Representation
 
 **EX)**
 
@@ -396,14 +399,9 @@ $$ 13.947536 = 13.948 $$
 
 $$ 13.947536 = 13.94754 $$
 
-### Quiz
+## Root Finding
 
-Bisection method, fixed-point iteration, Newton's method, the secant method
-and their error analysis, and order of convergence (Newton’s method and Secant method).
-
-이등분법, 고정점 반복, 뉴턴의 방법, 세 안트 방법 
-그리고 그들의 오류 분석 및 수렴 순서 (Newton의 방법 및 세트 방법).
-#### Q1. Using **bisection method** find the real root 
+### Bisection method
 
 $$ 𝑥^2 − 2 = 0 $$
 
@@ -493,34 +491,29 @@ $$ x_{13} = \frac{a+b}{2} = \frac{1.4140625 + 1.414306640625}{2} = 1.41418457031
 
 $$ 1.4141..... $$
 
-#### Q2: Find the real root of equation 
+### fixed-point iteration
 
 $$ x^3- 7x + 3 $$
 
-using fixed point iteration method, correct upto 3-decimal places.
+using **fixed point iteration method**, correct upto 3-decimal places.
 
-#### Q3: Find the real root of equation 
+### Newton's method 
 
 $$ 𝑥^3 − 48 $$
 
-2
 
-using newton-Raphson method, correct upto 4-decimal places. 
+using **newton-Raphson method**, correct upto 4-decimal places. 
 
-## Root Finding
+### False Position Method
 
-### Bisection method
-
-### fixed-point iteration
-
-### Newton's method
-
-### the secant method and their error analysis
-
-### and order of convergence (Newton’s method and Secant method).
+### Secant Method
 
 ## Direct Methods for Solving Linear Systems
 
 ### Gaussian elimination
 
 ### LU decomposition
+
+## Quiz
+
+퀴즈 내용 및 족보 내용 적기
